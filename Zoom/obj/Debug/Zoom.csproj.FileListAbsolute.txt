@@ -1,0 +1,18 @@
+C:\Users\Ki Gonzalez\source\repos\Zoom\Zoom\bin\Debug\Zoom.exe
+C:\Users\Ki Gonzalez\source\repos\Zoom\Zoom\bin\Debug\Zoom.pdb
+C:\Users\Ki Gonzalez\source\repos\Zoom\Zoom\bin\Debug\Guna.UI2.dll
+C:\Users\Ki Gonzalez\source\repos\Zoom\Zoom\obj\Debug\Zoom.csprojAssemblyReference.cache
+C:\Users\Ki Gonzalez\source\repos\Zoom\Zoom\obj\Debug\Zoom.Properties.Resources.resources
+C:\Users\Ki Gonzalez\source\repos\Zoom\Zoom\obj\Debug\Zoom.csproj.GenerateResource.cache
+C:\Users\Ki Gonzalez\source\repos\Zoom\Zoom\obj\Debug\Zoom.csproj.CoreCompileInputs.cache
+C:\Users\Ki Gonzalez\source\repos\Zoom\Zoom\obj\Debug\Zoom.csproj.CopyComplete
+C:\Users\Ki Gonzalez\source\repos\Zoom\Zoom\obj\Debug\Zoom.exe
+C:\Users\Ki Gonzalez\source\repos\Zoom\Zoom\obj\Debug\Zoom.pdb
+C:\Users\Ki Gonzalez\source\repos\Zoom\Zoom\obj\Debug\Zoom.ZoomCloudMeetings.resources
+C:\Users\Ki Gonzalez\source\repos\Zoom\Zoom\obj\Debug\Zoom.Zoom.resources
+C:\Users\Ki Gonzalez\source\repos\Zoom\Zoom\bin\Debug\Siticone.UI.dll
+C:\Users\Ki Gonzalez\source\repos\Zoom\Zoom\obj\Debug\Zoom.main.resources
+C:\Users\Ki Gonzalez\source\repos\Zoom\Zoom\obj\Debug\Zoom.clicker.resources
+C:\Users\Ki Gonzalez\source\repos\Zoom\Zoom\bin\Debug\Guna.UI.dll
+C:\Users\danzi\Downloads\ZoomClickersssss\Zoom\bin\Debug\Zoom.exe
+C:\Users\danzi\Downloads\ZoomClickersssss\Zoom\bin\Debug\Guna.UI2.dll

@@ -1,0 +1,17 @@
+C:\Users\Ki Gonzalez\source\repos\Zoom\Zoom\bin\Release\Zoom.exe
+C:\Users\Ki Gonzalez\source\repos\Zoom\Zoom\bin\Release\Zoom.pdb
+C:\Users\Ki Gonzalez\source\repos\Zoom\Zoom\bin\Release\Guna.UI.dll
+C:\Users\Ki Gonzalez\source\repos\Zoom\Zoom\bin\Release\Guna.UI2.dll
+C:\Users\Ki Gonzalez\source\repos\Zoom\Zoom\bin\Release\Siticone.UI.dll
+C:\Users\Ki Gonzalez\source\repos\Zoom\Zoom\obj\Release\Zoom.Zoom.resources
+C:\Users\Ki Gonzalez\source\repos\Zoom\Zoom\obj\Release\Zoom.ZoomCloudMeetings.resources
+C:\Users\Ki Gonzalez\source\repos\Zoom\Zoom\obj\Release\Zoom.main.resources
+C:\Users\Ki Gonzalez\source\repos\Zoom\Zoom\obj\Release\Zoom.Properties.Resources.resources
+C:\Users\Ki Gonzalez\source\repos\Zoom\Zoom\obj\Release\Zoom.settings.resources
+C:\Users\Ki Gonzalez\source\repos\Zoom\Zoom\obj\Release\Zoom.csproj.GenerateResource.cache
+C:\Users\Ki Gonzalez\source\repos\Zoom\Zoom\obj\Release\Zoom.csproj.CoreCompileInputs.cache
+C:\Users\Ki Gonzalez\source\repos\Zoom\Zoom\obj\Release\Zoom.csproj.CopyComplete
+C:\Users\Ki Gonzalez\source\repos\Zoom\Zoom\obj\Release\Zoom.exe
+C:\Users\Ki Gonzalez\source\repos\Zoom\Zoom\obj\Release\Zoom.pdb
+C:\Users\Ki Gonzalez\source\repos\Zoom\Zoom\obj\Release\Zoom.signin.resources
+C:\Users\Ki Gonzalez\source\repos\Zoom\Zoom\obj\Release\Zoom.csprojAssemblyReference.cache
